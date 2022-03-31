@@ -1,0 +1,10 @@
+turlight - #65c7c4
+turdark - #46a6a0
+greydark - #333332
+greylight - #4d4d4e
+greymid - #f3f3f3
+greymiddark - #e6e6e6
+dark - #191919
+brown - #754d25
+pinkdark - #a27e80
+pinklight - #e0adb1
