@@ -103,7 +103,7 @@ blockquote:before,
 .numscroller,
 .bounce1:after,
 .img-box ul i:hover {
-    color: #e6e6e6;
+    color: #65c7c4;
 }
 
 a.list-group-item:focus,
@@ -141,7 +141,7 @@ button.list-group-item:hover,
 .panel-heading a:hover,
 .navbar-custom ul.nav li a:hover,
 .navbar-custom .nav > .active > a {
-    background-color: #e6e6e6;
+    background-color: #65c7c4;
 }
 
 .elements h5,
@@ -149,12 +149,12 @@ button.list-group-item:hover,
 .open>.dropdown-toggle.btn-default:hover,
 .form-control:focus,
 .features i {
-    border-color: #e6e6e6;
+    border-color: #65c7c4;
 }
 /*________  Yellow  ________  */
 
 .btn {
-    box-shadow: inset 9px 0px 0px 0px #46a6a0;
+    box-shadow: inset 9px 0px 0px 0px #e6e6e6;
 }
 
 .navbar,
@@ -164,17 +164,17 @@ button.list-group-item:hover,
 .owl-prev i,
 .owl-next i,
 .bg-darkcolor .btn:hover {
-    background-color: #46a6a0;
+    background-color: #e6e6e6;
 }
 
 .form-control,
 .price-table .featured,
 #map-canvas {
-    border-color: #46a6a0;
+    border-color: #e6e6e6;
 }
 
 .date-category i {
-    color: #46a6a0;
+    color: #e6e6e6;
 }
 /*________  Secondary gray  ________  */
 
