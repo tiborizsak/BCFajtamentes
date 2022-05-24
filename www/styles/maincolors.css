@@ -1,6 +1,5 @@
 /*
-Petz
-Main Color Scheme
+BC Fajtamentes Color Scheme
  */
 /*________  Blue ________  */
 
@@ -141,7 +140,8 @@ button.list-group-item:hover,
 .panel-heading a:hover,
 .navbar-custom ul.nav li a:hover,
 .navbar-custom .nav > .active > a {
-    background-color: #e6e6e6;
+    /*background-color: #e6e6e6;*/
+    background-color: #46a6a0;
 }
 
 .elements h5,
@@ -154,7 +154,7 @@ button.list-group-item:hover,
 /*________  Yellow  ________  */
 
 .btn {
-    box-shadow: inset 9px 0px 0px 0px #46a6a0;
+    box-shadow: inset 9px 0px 0px 0px #e6e6e6;
 }
 
 .navbar,
