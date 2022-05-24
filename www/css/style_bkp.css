@@ -290,7 +290,6 @@ nav.navbar.shrink ul.dropdown-menu>li>a {
 ============================ */
 
 .navbar-brand-centered img {
-    z-index: 100;
     position: absolute;
     top: 0;
     /*bottom: 0;*/
@@ -2828,4 +2827,9 @@ button.list-group-item:hover {
     .slide__text {
         top: 50%;
     }
+}
+
+/*tee custom style*/
+@media (max-width: 990px) {
+    
 }
