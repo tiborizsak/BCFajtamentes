@@ -1843,7 +1843,7 @@ ul.custom li:before {
 
 .btn {
     border: none;
-    color: #fff;
+    color: #108896;
     cursor: pointer;
     display: inline-block;
     font-family: 'Baloo Thambi', sans-serif;
@@ -2828,4 +2828,10 @@ button.list-group-item:hover {
     .slide__text {
         top: 50%;
     }
+}
+
+/**************** tee *********************/
+
+.slide1 h1{
+    font-size: 60px !important;
 }
