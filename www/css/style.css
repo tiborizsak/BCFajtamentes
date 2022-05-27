@@ -2835,3 +2835,12 @@ button.list-group-item:hover {
 .slide1 h1{
     font-size: 60px !important;
 }
+
+#services-index{
+    background: #ffefd5 !important;
+}
+
+/***tee media***/
+@media (max-width: 320px){
+    /**?**/
+}
