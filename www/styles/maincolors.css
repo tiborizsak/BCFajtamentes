@@ -223,3 +223,9 @@ blockquote,
 .adoption-thumb:hover img {
     border-color: #ffefd5;
 }
+
+/*---------tee-----------*/
+
+.social-media-accordion a i{
+    border-color: #fff;
+}

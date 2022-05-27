@@ -701,7 +701,7 @@ ul.slider-pagi {
     margin-top: 0px;
 }
 #stats {
-    background-image: url(../img/illustrations/bones.png), url(../img/stats.png), url(../img/illustrations/bones1.png);
+    background-image: url(../img/illustrations/bones.png), url(../img/stats.jpeg), url(../img/illustrations/bones1.png);
     animation: dog-bones-falling 9s linear infinite;
     animation-direction: normal;
     background-repeat: no-repeat;
@@ -757,7 +757,7 @@ ul.slider-pagi {
 ============================ */
 
 #contact-index {
-    background: url(../img/contact1.png) no-repeat;
+    background: url(../img/contact1.jpeg) no-repeat;
 	background-attachment:fixed;
 	background-position: 0% bottom;
 	background-color:#fff;
