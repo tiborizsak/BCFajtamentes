@@ -28,15 +28,16 @@ Last change: 25th februar 2021
 ============================ */
 
 html {
-    width: 100%;
-    height: 100%;
+    width: 100vw;
+    height: 100vh;
 }
 body {
-    width: 100%;
-    height: 100%;
+    margin: 0px;
+    width: 100vw;
+    height: 100vh;
     font-weight: 400;
     color: #757373;
-    overflow-x: hidden!important;
+    overflow-x: hidden !important;
     -webkit-font-smoothing: antialiased;
     font-family: 'Lato', sans-serif;
     overflow: auto;
@@ -2350,7 +2351,7 @@ button.list-group-item:hover {
     }
     nav .navbar-brand img,
     nav.navbar.shrink .navbar-brand img {
-        max-width: 120px;
+        max-width: 80px;
         bottom: 0px;
     }
     nav.navbar.shrink a,
@@ -2457,7 +2458,7 @@ button.list-group-item:hover {
     }
     .slide__text {
         left: 0;
-        top: 55%;
+        top: 62%;
         max-width: 100%;
         text-align: center;
         position: relative;
@@ -2841,6 +2842,21 @@ button.list-group-item:hover {
 }
 
 /***tee media***/
-@media (max-width: 320px){
-    /**?**/
+@media (max-width: 1180px){
+    .container-fluid{ 
+        padding-right: 15px !important;
+        padding-left: 15px !important;
+    } 
+}
+
+@media (max-width: 1024px){
+    .slide1 h1{
+        font-size: 40px !important;
+    }
+}
+
+@media (max-width: 700px){
+    .slide1 h1{
+        font-size: 13px !important;
+    }
 }
