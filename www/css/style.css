@@ -2859,4 +2859,29 @@ button.list-group-item:hover {
     .slide1 h1{
         font-size: 13px !important;
     }
+    #accname{
+        font-size: 14px;
+    }
 }
+#collapseOne b {
+    /*background-color: #dfacb1;*/
+    background-color: #e6e6e6;
+    padding: 4px;
+    border-radius: 2%;
+    margin-left: 1%;
+}
+#contact-list{
+    margin-top: 20px;
+    list-style-type: none !important;
+}
+#contact-list li{
+    margin-top: 10px;
+}
+@media (max-width: 991px){
+    p{
+        margin-top: 15px !important;
+    }
+}
+#importantp p{
+    font-size: 24px;
+};
