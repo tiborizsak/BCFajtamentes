@@ -1,16 +1,32 @@
+section{
+    padding: 0px!important;
+}
+
+#contactcontainer{
+    padding-bottom: 40px!important;
+}
+
+i{
+    padding: 10px;
+}
+
+#contact-list{
+    padding: 0px;
+}
+
 /* Jumbotron */
 
-.jumbotron-rolunk {
+.jumbotron-kapcsolat {
     background-size: cover!important;
     height: 380px;
     color: #fff;
     text-align: center;
     margin-bottom: 12em;
-    background: url(../img/jumbotron_rolunk.jpeg);
+    background: url(../img/jumbotron_kapcsolat.jpeg);
     border-bottom-left-radius: 25%;
     border-bottom-right-radius: 25%;
 }
-.jumbotron-rolunk .jumbo-heading {
+.jumbotron-kapcsolat .jumbo-heading {
     color: #fff;
     padding: 40px 70px;
     background-image: url(../img/illustrations/pattern.png);
@@ -32,9 +48,9 @@
 		max-width: 25%;
 	}
 		
-	.jumbotron-rolunk{height:450px;}
+	.jumbotron-kapcsolat{height:450px;}
 	
-	.jumbotron-rolunk .jumbo-heading {margin-top: 380px;}
+	.jumbotron-kapcsolat .jumbo-heading {margin-top: 380px;}
 	
 	#contact-index {background-position: 15% bottom;}
 }
@@ -44,10 +60,10 @@
 @media (min-width: 991px) and (max-width: 1300px) {
     /* Jumbotron */
     
-    .jumbotron-rolunk .jumbo-heading {
+    .jumbotron-kapcsolat .jumbo-heading {
         margin-top: 170px;
     }
-    .jumbotron-rolunk {
+    .jumbotron-kapcsolat {
         height: 300px!important;
     }
 	 /* Slider */
@@ -74,8 +90,8 @@
 /************ min (min-width: 768px) and (max-width: 992px) *************/
 
 @media screen and (min-width: 768px) and (max-width: 992px) {
-    .jumbotron-rolunk .h1,
-    .jumbotron-rolunk h1 {
+    .jumbotron-kapcsolat .h1,
+    .jumbotron-kapcsolat h1 {
         font-size: 63px;
     }
     /* Main Slider */
@@ -124,10 +140,10 @@
     }
     /* Jumbotron */
     
-    .jumbotron-rolunk .jumbo-heading {
+    .jumbotron-kapcsolat .jumbo-heading {
         margin-top: 140px;
     }
-    .jumbotron-rolunk {
+    .jumbotron-kapcsolat {
         height: 250px;
         margin-bottom: 9em;
     }
@@ -163,14 +179,14 @@
 	
     /* Jumbotron */
     
-    .jumbotron-rolunk .jumbo-heading {
+    .jumbotron-kapcsolat .jumbo-heading {
         left: 0%;
         right: 0%;
 		background-image:none;
         padding: 20px;
         margin-top: 110px;
     }
-    .jumbotron-rolunk {
+    .jumbotron-kapcsolat {
         margin-bottom: 5em;
         padding: 10px;
         height: 150px;
