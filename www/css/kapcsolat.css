@@ -1,9 +1,5 @@
-section{
-    padding: 0px!important;
-}
-
-#contactcontainer{
-    padding-bottom: 40px!important;
+b{
+    font-size: 20px;
 }
 
 i{
@@ -22,7 +18,7 @@ i{
     color: #fff;
     text-align: center;
     margin-bottom: 12em;
-    background: url(../img/jumbotron_kapcsolat.jpeg);
+    background: url(../img/kapcsolat_cover.jpeg);
     border-bottom-left-radius: 25%;
     border-bottom-right-radius: 25%;
 }
