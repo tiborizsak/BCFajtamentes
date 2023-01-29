@@ -181,14 +181,3 @@
         height: 1rem;
     }
 }
-
-h3 {
-    font-family: 'Baloo Thambi', sans-serif;
-    font-size: 3em;
-    color: #000;
-    line-height: 1em;
-    letter-spacing: -0.2px;
-    margin-bottom: 20px;
-    margin-top: 0px;
-    position: relative;
-}
